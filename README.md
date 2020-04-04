@@ -15,6 +15,7 @@ You can leave comments on your experiences with the providers or ask questions i
 | ![](https://github.com/nextcloud/providers/raw/master/logos/nobugs.png) | :de: | ❌ |  [nobugs IT GmbH](https://www.nobugs.gmbh/at/Service_NCS.html) Ein Dienst der auf Ihr Unternehmen zugeschnitten ist und Zahlreiche Erweiterungsöglichkeiten bietet. Rechenzentren nach ISO 27001 in Österreich. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/semantica.png) | :it: | ✔️ | [Semantica](https://www.s7a.it/products_cloudsystem) - Managed Nextcloud Server hosted in Italy with backup and Collabora Online. App customization and development. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/startupstack.png) | :us: | ❌ | [Startup Stack](https://startupstack.tech) Private managed servers including ONLYOFFICE, Talk, anti-virus, and LDAP integration. Daily backups. Up to 10TB storage. Choice of 7 host countries. |
+| ![](https://panel1.de/p1.png) | :de: | ❌ | [Panel1 UG](https://panel1.de/nextcloud-mieten/) We offer German located Nextcloud Storage and own Nextcloud Servers on our Servers we have Talk, OnlyOffice, and Fulltextsearch and many other pre enabled. |
 
 ## Instructions to add a provider:
 Create a PR which adds the information as you see above. Requirements:
